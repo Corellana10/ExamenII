@@ -21,6 +21,11 @@
     border-radius: 30px;
   }
 
+  .navbarmenu {
+    color: gray;
+    font-weight: 600;
+  }
+
 .barra{
     color: gray;
 }
@@ -41,6 +46,12 @@
     padding-bottom: 60px;
 }
 
+#our_menu {
+    background-color: white;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
 .shadows-into-light-regular {
     font-family: "Shadows Into Light", cursive;
     font-weight: 400;
@@ -54,6 +65,14 @@
     font-weight: 400;
     font-style: normal;
     text-align: left;
+  }
+
+  .montserrat-center {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
   }
 
 #piedepagina {
