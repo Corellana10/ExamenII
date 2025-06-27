@@ -1,0 +1,67 @@
+.button {
+    background-color: #ce1212;
+    border: none;
+    padding: 6px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+  }
+
+  .button2 {
+    background-color: #ce1212;
+    border: none;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 9px;
+    font-weight: 200;
+    border-radius: 30px;
+  }
+
+.barra{
+    color: gray;
+}
+
+#hero{
+    background-color: rgb(227, 227, 227);
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#about_us{
+    background-color: rgb(255, 255, 255);
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.shadows-into-light-regular {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+.montserrat-left {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+  }
+
+#piedepagina {
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+
+.iconos {
+    color:  rgb(153, 153, 153);
+    margin-right: 20px;
+}
